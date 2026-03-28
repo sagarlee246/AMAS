@@ -1,0 +1,12 @@
+City Name / Estimated population in thousands / Approx. distance along Highway 1 from Picton in kilometers / Region of New Zealand
+City Population Distance Region
+Picton 4.3 0 Nelson-Marlborough
+Blenheim 28.2 27 Nelson-Marlborough
+Kaikōura 2.3 156 Canterbury
+Christchurch 381 336 Canterbury
+Ashburton 34.8 416 Canterbury
+Dunedin 128.8 691 Otago
+Milton 2.1 745 Otago
+Gore 12.8 842 Southland
+Invercargill 57.1 895 Southland
+Bluff 1.8 918 Southland
